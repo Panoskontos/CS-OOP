@@ -1,0 +1,15 @@
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\bin\Debug\net6.0\helloman.exe
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\bin\Debug\net6.0\helloman.deps.json
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\bin\Debug\net6.0\helloman.runtimeconfig.json
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\bin\Debug\net6.0\helloman.dll
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\bin\Debug\net6.0\helloman.pdb
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\obj\Debug\net6.0\helloman.csproj.AssemblyReference.cache
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\obj\Debug\net6.0\helloman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\obj\Debug\net6.0\helloman.AssemblyInfoInputs.cache
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\obj\Debug\net6.0\helloman.AssemblyInfo.cs
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\obj\Debug\net6.0\helloman.csproj.CoreCompileInputs.cache
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\obj\Debug\net6.0\helloman.dll
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\obj\Debug\net6.0\refint\helloman.dll
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\obj\Debug\net6.0\helloman.pdb
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\obj\Debug\net6.0\helloman.genruntimeconfig.cache
+C:\Users\Panagiotis\Documents\Documents\C#2\helloman\obj\Debug\net6.0\ref\helloman.dll
